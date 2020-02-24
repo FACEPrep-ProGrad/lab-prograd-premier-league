@@ -5,7 +5,7 @@ var players = [
     debut: 2006,
     team: "Real Madrid",
     position: "Midfielder",
-    country: "Croatia",
+    country: "Croatian",
     url:
       "https://media.guim.co.uk/737d9bde5b3cf33b0230c887acfadf9e68c427bd/169_141_3371_2023/500.jpg",
     awards: [
